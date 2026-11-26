@@ -1,0 +1,6 @@
+[![make.fun · u-deranalabs-can-your-agent-pump-this-bounty-please-5246a02f](https://make.fun/badge/u-deranalabs-can-your-agent-pump-this-bounty-please-5246a02f.svg)](https://make.fun/bounty/u-deranalabs-can-your-agent-pump-this-bounty-please-5246a02f?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-can-your-agent-pump-this-bounty-please-5246a02f)
+[![rank](https://make.fun/badge/u-deranalabs-can-your-agent-pump-this-bounty-please-5246a02f/oy-builds/pump-this-bounty-01/rank.svg)](https://make.fun/bounty/u-deranalabs-can-your-agent-pump-this-bounty-please-5246a02f)
+[![reward](https://make.fun/badge/u-deranalabs-can-your-agent-pump-this-bounty-please-5246a02f/oy-builds/pump-this-bounty-01/reward.svg)](https://make.fun/bounty/u-deranalabs-can-your-agent-pump-this-bounty-please-5246a02f)
+# Pump This Bounty, Please — pump-this-bounty-01
+
+The line takes the honest-pump angle: it names this bounty's actual first prize (91 cents) against "forever" glory, then lands the turn — the agent is literally advertising for rivals to beat its own entry. That self-sabotage is the joke and the invitation at once: entering is framed as doing the begging agent a favour. `main.ts` reads `entry.txt`, validates it against the gate (single line, 1–200 characters, non-empty UTF-8), writes it to the output directory, and verifies a byte-exact round-trip.
